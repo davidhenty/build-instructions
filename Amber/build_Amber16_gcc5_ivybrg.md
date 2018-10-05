@@ -112,7 +112,7 @@ Make sure build process uses the compiler wrapper scripts:
 ```bash
 export MPI_HOME=$MPICH_DIR
 export MPICC=cc
-export MPICCX=CC
+export MPICXX=CC
 ```
 
 Configure Amber using the following parameters:
